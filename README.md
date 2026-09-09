@@ -1,8 +1,5 @@
  # Caelestia Gray Screen / Black Screen Fix
 
-<div align="center">
-  <img src="assets/caelestia-hero.svg" alt="Caelestia shell fix banner" width="1000" />
-</div>
 
 <p align="center">
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -156,9 +153,6 @@ makepkg -si
 
 ## Visual overview
 
-<div align="center">
-  <img src="assets/fix-widget.svg" alt="Quick fix widget" width="700" />
-</div>
 
 ## Verification
 
