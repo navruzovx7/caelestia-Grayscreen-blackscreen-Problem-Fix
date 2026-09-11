@@ -162,5 +162,12 @@ cd quickshell-git
 makepkg -si
 ```
 
+# IF caelestia didn't give error try this after traying all other options 
+```bash
+sudo pacman -Rns cachyos-hypr-noctalia noctalia
+killall noctalia
+caelestia shell -d
+```
+
 This repository is intended as a clean, practical troubleshooting guide for the Caelestia gray-screen issue on Arch-based systems.
 
